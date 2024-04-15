@@ -1,7 +1,7 @@
-- 👋 Hi there! I'm George Abban, a data scientist passionate about transforming data into actionable insights.
-- 📊 I specialize in exploring and analyzing complex datasets to uncover patterns and trends.
-- 💻 My expertise includes predictive modeling, machine learning algorithms, and data-driven decision-making.
-- 🌱 I'm constantly learning and exploring new techniques to enhance my data science skills.
-- ⛰️ When I'm not coding or diving into data, you can find me hiking, reading, or experimenting with new recipes.
-- 👩‍💻 Let's connect and explore the exciting world of data science together!
-- 📫 Reach me georgeabban79@gmail.com and 0543370183
+- 👋 Hi there! I'm George Abban, a versatile professional with expertise in data science, machine learning, AI engineering, and Python backend development.
+- 📊 As a data scientist, I specialize in exploring and analyzing complex datasets to derive actionable insights.
+- 🤖 I also work extensively in machine learning and AI engineering, developing models and algorithms to solve real-world problems.
+- 💻 In addition to my data science and ML/AI skills, I'm proficient in Python backend development, building robust and scalable applications.
+- 🌱 I'm always learning and exploring new technologies to stay at the forefront of data science and software engineering.
+- ⛰️ Outside of work, I enjoy hiking, reading, and experimenting with new technologies.
+- 👩‍💻 Let's connect and collaborate on exciting projects at the intersection of data science, machine learning, AI, and software development!
