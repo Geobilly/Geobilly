@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Geobilly
-- 👀 I’m interested in Website Development, Mobile apps, Software engineering, Machine Learning, AI and Digital Marketing
-- 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on any projects within and beyound my field
+- 👋 Hi there! I'm George Abban, a data scientist passionate about transforming data into actionable insights.
+- 📊 I specialize in exploring and analyzing complex datasets to uncover patterns and trends.
+- 💻 My expertise includes predictive modeling, machine learning algorithms, and data-driven decision-making.
+- 🌱 I'm constantly learning and exploring new techniques to enhance my data science skills.
+- ⛰️ When I'm not coding or diving into data, you can find me hiking, reading, or experimenting with new recipes.
+- 👩‍💻 Let's connect and explore the exciting world of data science together!
 - 📫 Reach me georgeabban79@gmail.com and 0543370183
-
-<!---
-Geobilly/Geobilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
