@@ -5,3 +5,4 @@
 - 🌱 I'm always learning and exploring new technologies to stay at the forefront of data science and software engineering.
 - ⛰️ Outside of work, I enjoy hiking, reading, and experimenting with new technologies.
 - 👩‍💻 Let's connect and collaborate on exciting projects at the intersection of data science, machine learning, AI, and software development!
+- 👩‍💻 Reach me georgeabban79@gmail.com and 0543370183 
