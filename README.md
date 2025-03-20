@@ -1,5 +1,5 @@
 - 👋 Hi there! I'm George Abban, a versatile professional with expertise in data science, machine learning, AI engineering, and Python backend development.
-- 📊 As a data scientist, I specialize in exploring and analyzing complex datasets to derive actionable insights.
+- 📊 As a Software Develper and AI specialize in exploring and analyzing complex datasets to derive actionable insights.
 - 🤖 I also work extensively in machine learning and AI engineering, developing models and algorithms to solve real-world problems.
 - 💻 In addition to my data science and ML/AI skills, I'm proficient in Python backend development, building robust and scalable applications.
 - 🌱 I'm always learning and exploring new technologies to stay at the forefront of data science and software engineering.
