@@ -2,7 +2,7 @@
 
 I'm a **Software Developer and Graduate Researcher** with experience in Python backend development, data science, machine learning, and geospatial technologies.
 
-I am currently pursuing an **M.S. in Forestry at Mississippi State University**, where my research combines **remote sensing, GIS, machine learning, and forest health**.
+I am currently pursuing graduate studies in **Mississippi State University**, where my research combines **remote sensing, GIS, machine learning, and forest health**.
 
 My current research focuses on using satellite Earth observation data and machine learning to study **Southern Pine Beetle (SPB)** occurrence and susceptibility. I am also exploring **Geospatial AI (GeoAI), geospatial foundation models, transfer learning, embeddings, and fine-tuning** for environmental and forest-health applications.
 
